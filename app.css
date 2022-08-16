@@ -79,15 +79,15 @@
         }
         /*textarea*/
 
-        .textarea
+        .text-area
         {
             display: block;
             margin: 0 auto;
             padding: 1rem;
             background-color: var(--theme-secondary);
             border: 2px solid var(--text-primary);
-            width: 100px;
-            height: 100px;
+            width: 80%;
+            height: 15vh;
             font-family:   'Kalam',cursive;
             font-weight: lighter;
             font-size: 1rem;

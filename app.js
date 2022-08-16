@@ -4,6 +4,7 @@ const btnTranslate = document.querySelector('#btn-translate');
 
 let url = 'https://api.funtranslations.com/translate/minion.json';
 
+
 const getUrl = text => 
 {
      return url + '?text=' + text; 
